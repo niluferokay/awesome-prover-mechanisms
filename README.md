@@ -12,6 +12,7 @@ https://discourse.aztec.network/
 - [[Proposal] Prover Coordination: Sidecar](https://forum.aztec.network/t/proposal-prover-coordination-sidecar/2428)
 - [[Proposal] - Fernet on the Rocks](https://forum.aztec.network/t/proposal-fernet-on-the-rocks/2460)
 - [[Proposal] - When the levee breaks](https://forum.aztec.network/t/proposal-when-the-levee-breaks/2457)
+- [[Proposal] Decentralized Prover Network (Staking, Reputations and Proof Races)](https://forum.aztec.network/t/proposal-decentralized-prover-network-staking-reputations-and-proof-races/2489)
 
 ### STARKNET
 https://community.starknet.io/
@@ -27,6 +28,7 @@ https://community.starknet.io/
 ### TAIKO
 https://community.taiko.xyz/
 
+- [Proving Taiko blocks](https://taiko.xyz/docs/concepts/proving#prover-dynamics)
 - [Alpha-2 Testnet Update](https://taiko.mirror.xyz/EM1IEpF_Pd9_WuPxw3EQPHNHmaXzh7kljMSolP754AI)
 - [Alpha-2 Prover Rewards Update](https://community.taiko.xyz/t/alpha-2-prover-rewards-update/28)
 - [Eldfell L3 update: Prover slashing explained](https://community.taiko.xyz/t/eldfell-l3-update-prover-slashing-explained/1038)
