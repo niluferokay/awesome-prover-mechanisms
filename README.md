@@ -24,11 +24,15 @@ https://community.starknet.io/
 - [Starknet Decentralization Day Summary](https://community.starknet.io/t/starknet-decentralization-day-summary/6913)
 - [StarkNet Decentralization - Tendermint based suggestion](https://community.starknet.io/t/starknet-decentralization-tendermint-based-suggestion/998)
 - [Decentralized Consensus Potential Candidate (Longest Chain)](https://community.starknet.io/t/decentralized-consensus-potential-candidate-longest-chain/824)
+- [Starknet Decentralized Protocol VI - The Buffer Problem](https://community.starknet.io/t/starknet-decentralized-protocol-vi-the-buffer-problem/7098)
+- [Starknet Decentralized Protocol VII - Chained Proof Protocols & Braiding](https://community.starknet.io/t/starknet-decentralized-protocol-vii-chained-proof-protocols-braiding/18831)
 
 ### TAIKO
 https://community.taiko.xyz/
 
 - [Proving Taiko blocks](https://taiko.xyz/docs/concepts/proving#prover-dynamics)
+- [feat(protocol): Auction #13813](https://github.com/taikoxyz/taiko-mono/issues/13813)
+- [Staking-Based Tokenomics](https://github.com/taikoxyz/taiko-mono/blob/alpha-4/packages/protocol/docs/tokenomics_staking.md)
 - [Alpha-2 Testnet Update](https://taiko.mirror.xyz/EM1IEpF_Pd9_WuPxw3EQPHNHmaXzh7kljMSolP754AI)
 - [Alpha-2 Prover Rewards Update](https://community.taiko.xyz/t/alpha-2-prover-rewards-update/28)
 - [Eldfell L3 update: Prover slashing explained](https://community.taiko.xyz/t/eldfell-l3-update-prover-slashing-explained/1038)
@@ -43,6 +47,7 @@ https://community.taiko.xyz/
 
 - [An overview of Scroll’s architecture](https://scroll.io/blog/architecture)
 - [Prover-sequencer separation](https://www.youtube.com/watch?v=WYH7n4M016A&t=23008s)
+- [PBS-ifying Rollups: Prover-Sequencer Separation - Toghrul Maharramov](https://www.youtube.com/watch?v=s-jm5TCuQJI)
   
 ### ETH RESEARCH
 https://ethresear.ch/
